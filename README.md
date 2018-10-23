@@ -60,12 +60,12 @@ $loop->run();
 See also the [**examples**](src/examples).
 
 ## API documentation
-iGap API manuals: https://github.com/RooyeKhat-Media/iGap-API
+iGap API manuals: https://github.com/KianIranian-STDG/iGap-API
 
-Protocol buffers files : https://github.com/RooyeKhat-Media/iGap-API/tree/master/app/assets/proto
+Protocol buffers files : https://github.com/KianIranian-STDG/iGap-API/tree/master/app/assets/proto
 
 ## Partner
-**[RooyeKhat Media](https://rooyekhat.co/en)** was founded in 2015 aiming to create communicative and informative platforms supported by Internet and network on the basis of modern technology. We focus on the fields of designing, programming, supporting communicative and media software on mobile phones and tablets.
+**[Kian Iranian](https://www.kianiranian.com)** was founded in 2015 aiming to create communicative and informative platforms supported by Internet and network on the basis of modern technology. We focus on the fields of designing, programming, supporting communicative and media software on mobile phones and tablets.
 
 ## Licence
 iGap-PHP-Client is released under the [GNU Lesser General Public License](LICENSE)
